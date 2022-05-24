@@ -1,6 +1,6 @@
 const links_social_media = {
   github: 'guiihtto',
-  youtube: 'UCAIOVkXXl9cPYCJsrEf7Y4g',
+  youtube: '/channel/UCELEVN7rBDC-7H9qCwb1mPg',
   instagram: 'guiihhenriq',
   facebook: 'guilherme.guiih.h',
   twitter: 'guiihtto'
